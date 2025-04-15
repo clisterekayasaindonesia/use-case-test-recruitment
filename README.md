@@ -6,7 +6,7 @@ Selamat datang di repositori Use Case Test untuk proses rekrutmen kami. Di sini 
 1. Buka branch `cases/`.
 2. Download file `usecase-cliste'.
 3. Silakan di run di code editor anda masing masing.
-4. Kerjakan sesuai petunjuk, gunakan template yang disediakan.
+4. Kerjakan sesuai petunjuk.
 5. Setelah selesai, cek branch  `submissions/`.
 
 ## Informasi Tambahan

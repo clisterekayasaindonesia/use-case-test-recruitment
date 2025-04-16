@@ -7,7 +7,7 @@ Selamat datang di repositori hasil tes rekrutmen. Ikuti langkah-langkah berikut 
    - Nama folder: `[NamaAnda]_[Posisi]`
    - Contoh: `JohnDoe_FullStackDeveloper`
 2. Upload semua file yang relevan ke folder tersebut.
-3. Kirimkan Link Folder Submission Anda via Email.
+3. Kirimkan Link Folder Submission beserta file .sql dan .bak Anda via Email.
 
 ## Catatan
 - Pastikan file Anda terstruktur dengan baik dan dokumentasi jelas.
